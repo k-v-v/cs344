@@ -3,7 +3,7 @@ cs344
 
 Introduction to Parallel Programming class code
 
-Solved problem set
+Solved problem sets
 - [x] Problem Set 1
 - [ ] Problem Set 2
 - [ ] Problem Set 3
